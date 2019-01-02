@@ -1,0 +1,2 @@
+Daily file for 2019-01-02
+Changing file ./files/file_2019-01-02.txt at 2019-01-02T08:35:14
