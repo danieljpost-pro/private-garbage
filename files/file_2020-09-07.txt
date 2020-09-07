@@ -1,0 +1,2 @@
+Daily file for 2020-09-07
+Changing file ./files/file_2020-09-07.txt at 2020-09-07T10:17:30
